@@ -1,0 +1,2 @@
+# ANTUSB2 (0fcf:1008); grant access to active local desktop session.
+SUBSYSTEM=="usb", ATTR{idVendor}=="0fcf", ATTR{idProduct}=="1008", MODE="0660", TAG+="uaccess"

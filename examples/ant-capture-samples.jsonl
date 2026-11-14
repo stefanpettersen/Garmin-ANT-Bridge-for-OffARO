@@ -1,0 +1,5 @@
+{"time": "2026-11-13T19:27:01.439+01:00", "event": "ant_packet", "count": 1, "page": "0x01", "idx": 0, "sender_id": 39210, "payload": "01 60 01 00 C0 00 40 5B"}
+{"time": "2026-11-13T19:27:01.439+01:00", "event": "ant_packet", "count": 2, "page": "0x02", "idx": 0, "sender_id": 39210, "payload": "02 60 17 2A 80 95 E8 06"}
+{"time": "2026-11-13T19:27:01.439+01:00", "event": "position_decoded", "idx": 0, "name": null, "lat": 59.19080078601837, "lon": 9.715121984481812, "gps_lost": false, "comm_lost": false, "removed": false, "first": "01 60 01 00 C0 00 40 5B", "second": "02 60 17 2A 80 95 E8 06"}
+{"time": "2026-11-13T19:27:01.881+01:00", "event": "ant_packet", "count": 35, "page": "0x10", "idx": 0, "sender_id": 39210, "payload": "10 E0 07 48 75 6E 64 00"}
+{"time": "2026-11-13T19:27:01.943+01:00", "event": "ant_packet", "count": 36, "page": "0x11", "idx": 0, "sender_id": 39210, "payload": "11 E0 01 00 00 00 00 00"}
