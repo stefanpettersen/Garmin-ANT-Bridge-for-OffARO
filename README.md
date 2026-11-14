@@ -9,8 +9,9 @@ A community-developed Python bridge that receives Garmin **Broadcast Dog Data** 
 ## Project status
 
 - Demonstrated end-to-end on Windows and Linux Mint using an ANTUSB2 (USB VID:PID `0fcf:1008`).
+- Tested Garmin handheld models: **Astro 320**, **Alpha 200i**, and **Alpha 300i** (Broadcast Dog Data reception).
 - Live Garmin dog locations, names, status flags and OffARO injection demonstrated.
-- Recovery after temporarily disabling Garmin broadcasts tested on Windows with v0.6.7; extended soak testing and additional Garmin devices remain to be verified.
+- Recovery after temporarily disabling Garmin broadcasts tested on Windows with v0.6.7; extended soak testing, multi-dog scenarios and broader device compatibility remain to be verified.
 - This release changes packaging, Linux launch and documentation, **not** the ANT receive/recovery algorithm.
 
 ## Quick start
