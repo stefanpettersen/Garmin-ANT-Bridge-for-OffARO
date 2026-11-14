@@ -1,0 +1,15 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Runtime output and local Garmin state
+logs/
+garmin_pairing.json
+scan_results.json
+.garmin_gui_stop.request
+
+# OS and editor files
+.DS_Store
+Thumbs.db
