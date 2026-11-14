@@ -53,7 +53,7 @@ See [`../examples/ant-capture-samples.jsonl`](../examples/ant-capture-samples.js
 
 ## Identifiers and compatibility
 
-ANT device numbers and Garmin UI menu IDs are **not interchangeable**. During testing, ANT device numbers `17720`, `11164`, `11183` were observed; the Garmin UI displayed `410936`, `207791`, `207772`. The pairing `207772 ↔ 11164` was confirmed; do not infer a complete mapping for the other IDs. Alpha 200i and 300i are available for testing; Astro 320 remains a future compatibility target.
+ANT device numbers and Garmin UI menu IDs are **not interchangeable**. During testing, ANT device numbers `17720`, `11164`, `11183` were observed; the Garmin UI displayed `410936`, `207791`, `207772`. The pairing `207772 ↔ 11164` was confirmed; do not infer a complete mapping for the other IDs. Broadcast Dog Data reception has been tested with Astro 320, Alpha 200i, and Alpha 300i. Broader compatibility and long-duration testing remain open.
 
 ## References
 
